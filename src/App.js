@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 
 function App() {
-  return <div>Hello 5hp</div>;
+  return <div>Hi there 5hp</div>;
 }
 
 export default App;
